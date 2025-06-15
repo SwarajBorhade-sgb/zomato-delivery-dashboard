@@ -21,7 +21,7 @@ This Power BI dashboard provides insights into Zomato's food delivery performanc
 ---
 
 ## 📂 Files
-📄 [View Dashboard PDF](file:///C:/Users/Swaraj/AppData/Local/Temp/Power%20BI%20Desktop/print-job-3f533fce-27f0-4798-a6ee-b1bfcdac46e6/Zomato%20Food%20Delivery%20Dashboard.pdf)
+📄 [View Dashboard PDF](file:///C:/Users/Swaraj/Downloads/Zomato%20Delivery%20dashboard.pdf)
 
 ---
 
