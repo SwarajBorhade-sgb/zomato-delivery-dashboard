@@ -41,7 +41,7 @@ This Power BI dashboard provides insights into Zomato's food delivery performanc
 ---
 
 ## 🔗 Connect  
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/swaraj-borhade-921a411a4/)  
+Let’s connect on [LinkedIn]([https://www.linkedin.com/in/swaraj-borhade-921a411a4/](https://www.linkedin.com/in/swaraj-borhade-921a411a4/))  
 📧 borhadeswaraj01@gmail.com
 
 ---
